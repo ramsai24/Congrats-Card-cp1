@@ -1,0 +1,14 @@
+Total:3
+3
+0
+Congrats Card tests
+
+3
+3
+0
+JSX code implementation should consist of JSX syntax for HTML main heading element at least once
+2 ms 
+JSX code implementation should consist of JSX syntax for HTML paragraph element at least once
+0 ms 
+JSX code implementation should consist of JSX syntax for HTML image element at least once
+1 ms 
